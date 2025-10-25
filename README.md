@@ -31,7 +31,7 @@ A modern, responsive web application built with **React** to quickly find your p
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/ip-address-finder.git
+git clone https://github.com/Malihafatima1/my-ip-locator.git
 Navigate to the project directory:
 
 bash
