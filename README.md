@@ -13,14 +13,16 @@ A sleek, modern, and responsive **React.js web application** that helps you find
 
 ## ✨ Features
 
-✅ **Public IP Detection:** Instantly fetches your current public IPv4 address.  
-✅ **Detailed Location Info:** Shows city, region, country, and continent.  
-✅ **ISP & Network Data:** Displays your ISP, ASN, and connection details.  
-✅ **Timezone & Currency:** Includes timezone, country code, and calling code.  
-✅ **Interactive Map:** Visualizes your location using latitude & longitude.  
-✅ **Keyboard Support:** Press **Enter** to trigger search instantly.  
-✅ **Fully Responsive:** Smooth experience across all devices.  
-✅ **Personal Branding:** Custom footer — *“Made with ❤️ by Maliha Fatima”*
+✅ Displays your public IPv4 address
+✅ Shows location details — city, region, country, latitude, and longitude
+✅ Displays ISP (Internet Service Provider) and timezone
+✅ Custom IP search functionality
+✅ Search history with localStorage persistence
+✅ Clickable history items to revisit old searches
+✅ Error handling with smooth fade-out messages
+✅ Interactive Map powered by MapTiler + React Map GL
+✅ Responsive UI with a clean modern gradient theme
+✅ A lovely personal footer — “Made with ❤️ by Maliha Fatima”
 
 ---
 
@@ -83,12 +85,6 @@ ip-address-finder/
 2. Instantly view your **IP address** and **location details**.  
 3. Explore the **interactive map** to see your current location.  
 4. Press **Enter** on your keyboard to re-fetch or update data.
-
----
-
-## 📸 Screenshots
-
-![App Preview](https://github.com/user-attachments/assets/47f6d8e6-24b5-468d-a712-1b21dba9870a)
 
 ---
 
