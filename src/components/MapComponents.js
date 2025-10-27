@@ -3,7 +3,8 @@ import { Map, Marker } from "react-map-gl";
 import { RiUserLocationFill } from "react-icons/ri"; // import from specific icon package
 import "mapbox-gl/dist/mapbox-gl.css"; 
 
-const API_KEY = "VMiwUJveHi4iimF5JW9f";
+const API_KEY = process.env.REACT_APP_MAPTILER_KEY;
+
 
 const MapComponents = ({ lat, lon }) => {
   const [viewport, setViewport] = useState({
