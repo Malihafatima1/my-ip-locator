@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Map, Marker } from "react-map-gl"; // v7 uses named exports
+import { Map, Marker } from "react-map-gl"; 
 import { RiUserLocationFill } from "react-icons/ri"; // import from specific icon package
 import "mapbox-gl/dist/mapbox-gl.css"; 
 
